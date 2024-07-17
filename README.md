@@ -29,3 +29,7 @@ To extend the system's capabilities to support various delivery services, the fo
 - **Service Selection Mechanism**: Adopt a Driver/Manager pattern to intelligently select the appropriate delivery
   service based on user preference or other criteria. This mechanism enhances the system's flexibility and adaptability
   to varying requirements.
+
+- **Additional Info to Shipment System**: We can add another fields to the shipment system to support multiple delivery services. 
+- For example, we can add comment, preferred deliverable date/time, change type of delivering (to door/to office), also we can specify the another person etc...
+- there a lot of potential fields that can be added to the shipment system, it only depends of shipment company API and possible services.
